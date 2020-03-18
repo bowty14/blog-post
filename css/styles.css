@@ -1,0 +1,15 @@
+.red {
+  color: red ;
+  font-style: italic;
+}
+
+.blue {
+  color: blue;
+  font-style: italic;
+}
+
+.aboutme {
+  color: fuchsia;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+}
