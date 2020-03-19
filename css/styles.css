@@ -1,15 +1,21 @@
 .red {
   color: red ;
   font-style: italic;
+  margin-top: 15%;
+  margin-bottom: 15%;
 }
 
 .blue {
   color: blue;
   font-style: italic;
+  margin-top: 15%;
+  margin-bottom: 15%;
 }
 
 .aboutme {
   color: fuchsia;
   font-size: medium;
   font-family: 'Times New Roman', Times, serif;
+  margin-top: 15%;
+  margin-bottom: 15%;
 }
